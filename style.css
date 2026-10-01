@@ -1,0 +1,12 @@
+img {
+  width: 300px;
+}
+
+.linear-basic {
+  background: linear-gradient(to right, #4b759e, #981dbd);
+}
+
+body {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+color:azure
