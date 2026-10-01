@@ -1,5 +1,5 @@
 img {
-  width: 300px;
+  width: 250px;
 }
 
 .linear-basic {
@@ -8,5 +8,6 @@ img {
 
 body {
   text-align: center;
-  font-family: 'Arial', sans-serif;
-color:azure
+  font-family: "Arial", sans-serif;
+  color: azure;
+}
